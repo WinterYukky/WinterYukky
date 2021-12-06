@@ -4,11 +4,10 @@
     - Nuxt.js
     - TypeScript
     - Go
-    - Cloud Native(Amplify, AWS)
+    - AWS (Amplify, CDK...)
   - Others
     - Presto/Hive
-    - Java
-    - C#
+    - Java, C#, PHP...
 
 <!---
 WinterYukky/WinterYukky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

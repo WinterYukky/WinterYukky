@@ -1,13 +1,12 @@
 ## Skills
-- Tech
-  - Core Skill
-    - Nuxt.js
-    - TypeScript
-    - Go
-    - AWS (Amplify, CDK...)
-  - Others
-    - Presto/Hive
-    - Java, C#, PHP...
+- Core Skill
+  - Nuxt.js
+  - TypeScript
+  - Go
+  - AWS (CDK, Amplify...)
+- Others
+  - Presto/Hive
+  - Java, C#, PHP...
 
 <!---
 WinterYukky/WinterYukky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

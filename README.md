@@ -3,7 +3,7 @@
   - Nuxt.js
   - TypeScript
   - Go
-  - AWS (CDK, Amplify...)
+  - AWS CDK
 - Others
   - Presto/Hive
   - Java, C#, PHP...
